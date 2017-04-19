@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 基于yii2 开发
 
 **assets**
@@ -234,3 +235,5 @@ composer exec codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+# arkadmin
+>>>>>>> 92b9ae08f1403be02b337c7663ea443203b5dda9
