@@ -1,0 +1,1 @@
+var app3 = new Vue
