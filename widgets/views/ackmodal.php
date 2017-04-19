@@ -48,7 +48,6 @@
     <!-- /.modal -->
 
     <!-- 定义数据块 -->
-
 <?php \app\widgets\JsBlock::begin(); ?>
     <script>
         $(function () {
